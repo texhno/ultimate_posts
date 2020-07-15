@@ -1,4 +1,4 @@
-# Ultimate posts for Data Science
+# This repo is a fork of [open-data-science/ultimate_posts](https://github.com/open-data-science/ultimate_posts)
 
 This repo contains ultimate posts for [@opendatascience](https://t.me/opendatascience) telegram channel. The idea is to provided up-to-date information on common questions arising while studying data science.
 
